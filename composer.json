@@ -1,6 +1,6 @@
 {
-    "name": "prismic/php-sdk",
-    "description": "PHP development kit for Prismic",
+    "name": "formfunfunction/prismic-php-sdk",
+    "description": "PHP development kit for Prismic (fork of prismic/php-sdk with Guzzle 7",
     "config": {
         "sort-packages": true
     },
